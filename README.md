@@ -1,4 +1,7 @@
 ## Olá, Bem vindo ao meu github :) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Goncalves-de-Souza&show_icons=true&theme=radical)
+
 <br>
 
 <div>
@@ -45,14 +48,7 @@ ________________________________________
 
 </div>
 
-___________
-
-TESTE:
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Goncalves-de-Souza)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Goncalves-de-Souza&show_icons=true&theme=radical)
-
-
-
-<!--Créditos: 1- https://github.com/alexandresanlim/Badges4-README.md-Profile#-office- 
-              2- https://github.com/rafaballerini/rafaballerini    -->
+<!-- Créditos: 1- https://github.com/alexandresanlim/Badges4-README.md-Profile#-office- 
+              2- https://github.com/rafaballerini/rafaballerini
+              3- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md#cart%C3%A3o-de-estat%C3%ADsticas-do-github 
+-->
