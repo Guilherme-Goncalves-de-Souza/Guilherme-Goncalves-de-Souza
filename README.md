@@ -49,7 +49,7 @@ ___________
 
 TESTE:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme Gonçalves-de-Souza)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Goncalves-de-Souza)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--Créditos: 1- https://github.com/alexandresanlim/Badges4-README.md-Profile#-office- 
