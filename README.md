@@ -45,5 +45,12 @@ ________________________________________
 
 </div>
 
+___________
+
+TESTE:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme Gonçalves-de-Souza)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--Créditos: 1- https://github.com/alexandresanlim/Badges4-README.md-Profile#-office- 
               2- https://github.com/rafaballerini/rafaballerini    -->
