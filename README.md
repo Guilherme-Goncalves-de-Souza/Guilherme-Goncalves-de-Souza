@@ -16,7 +16,6 @@
   
   <img align = "center" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> -
   <img align = "center" src = "https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">-
- 
   <img align = "center" src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> -
   <img align = "center" src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -
   <img align = "center" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
