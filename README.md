@@ -20,16 +20,6 @@
 </div>
 ________________________________________
 
-## 📚Colégio📚:
-
-<div>
-  
-  <a href = "http://matriculas.tecpuc.com.br/curso/ensino-medio-tecnico-em-informatica/" target="_blank"> TECPUC </a>
-
-</div>
-
-________________________________________
-
 ## Estudando:
 
 <div>
