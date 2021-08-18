@@ -3,7 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Goncalves-de-Souza&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Goncalves-de-Souza&theme=radical)
 
-
 <br>
 <hr>
 
@@ -64,8 +63,10 @@
 
 ## Contato:
 <div>
-  <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href = "mailto:gui11223344555@gmail.com" target="_blank"> <img align = "center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a/>
 </div>
+  
+
 
 <!-- Créditos: 1-https://github.com/alexandresanlim/Badges4-README.md-Profile#-office- 
                2-https://github.com/rafaballerini/rafaballerini
