@@ -3,7 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Goncalves-de-Souza&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Goncalves-de-Souza&theme=radical)
 
-<br>
 <hr>
 
 ## Front-End:
@@ -12,7 +11,6 @@
   <img align = "center" width="10%" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-  badge&logo=css3&logoColor=white"> -
   <img align = "center" height="10%" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
-<br>
 <hr>
 
 ## Back-End:
@@ -22,8 +20,6 @@
   <img align = "center" src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> -
   Mongoose
 </div>
-  
-<br>
 <hr>
 
 ## Banco de dados:
@@ -31,8 +27,6 @@
   <img align = "center" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> - 
   <img align = "center" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-
-<br>
 <hr>
 
 ## IDEs:
@@ -40,8 +34,6 @@
   <img align = "center" src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">-
   <img align = "center" src = "https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 </div>
-
-<br>
 <hr>
 
 ## OS:
@@ -49,16 +41,12 @@
   <img align = "center" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> -
   <img align = "center" src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
-
-<br>
 <hr>
 
 ## Outros:
 <div>
   <img align = "center" src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
-<br>
 <hr>
 
 ## Contato:
@@ -66,7 +54,6 @@
   <a href = "mailto:gui11223344555@gmail.com" target="_blank"> <img align = "center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a/>
 </div>
   
-
 
 <!-- Créditos: 1-https://github.com/alexandresanlim/Badges4-README.md-Profile#-office- 
                2-https://github.com/rafaballerini/rafaballerini
