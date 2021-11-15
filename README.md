@@ -1,7 +1,9 @@
 ## Olá, Bem vindo ao meu github :) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Goncalves-de-Souza&show_icons=true&theme=chartreuse-dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Goncalves-de-Souza&theme=chartreuse-dark)
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Goncalves-de-Souza&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Goncalves-de-Souza&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
 
 <hr>
 
@@ -53,6 +55,8 @@
 <div>
   <a href = "mailto:gui11223344555@gmail.com" target="_blank"> <img align = "center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a/>
 </div>
+  
+![Snake animation](https://github.com/Guilherme-Goncalves-de-Souza/Guilherme-Goncalves-de-Souza/blob/output/github-contribution-grid-snake.svg)
   
 
 <!-- Créditos: 1-https://github.com/alexandresanlim/Badges4-README.md-Profile#-office- 
