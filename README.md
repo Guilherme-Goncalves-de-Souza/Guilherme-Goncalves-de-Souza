@@ -61,7 +61,8 @@
 ![Snake animation](https://github.com/Guilherme-Goncalves-de-Souza/Guilherme-Goncalves-de-Souza/blob/output/github-contribution-grid-snake.svg)
   
 
-<!-- Créditos: 1-https://github.com/alexandresanlim/Badges4-README.md-Profile#-office- 
-               2-https://github.com/rafaballerini/rafaballerini
-               3-https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md#cart%C3%A3o-de-estat%C3%ADsticas-do-github 
+<!-- Créditos: -https://github.com/alexandresanlim/Badges4-README.md-Profile#-office- 
+               -https://github.com/rafaballerini/rafaballerini
+               -https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md#cart%C3%A3o-de-estat%C3%ADsticas-do-github
+               -https://devicon.dev/
 -->
