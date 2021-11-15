@@ -1,7 +1,7 @@
 ## Olá, Bem vindo ao meu github :) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Goncalves-de-Souza&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Goncalves-de-Souza&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Goncalves-de-Souza&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Goncalves-de-Souza&theme=chartreuse-dark)
 
 <hr>
 
