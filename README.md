@@ -30,19 +30,7 @@
 <br>
 
 <div>
-  <img align = "center" width="50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div>
-
-<br>
-
-<div>
   <img align = "center" width="60px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-</div>
-
-<br>
-
-<div>
-  <img align = "center" width="60px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
 </div>
 
 <br>
