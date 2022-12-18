@@ -1,4 +1,4 @@
-## Olá, Bem vindo ao meu github :) 
+## Olá, Bem vindo ao meu github :) <img height="20em" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGuilherme-Goncalves-de-Souza1212%2Fhit-counter"/> 
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Goncalves-de-Souza&show_icons=true&theme=chartreuse-dark&include_all_commits=true"/>
@@ -7,7 +7,8 @@
 
 <hr>
 
-<div>
+<div align = "center">
+  <h3> Front End: </h3>
   <img align = "center" width="50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"> -
   <img align = "center" width="50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"> -
   <img align = "center" width="40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -15,7 +16,8 @@
 
 <br>
 
-<div>
+<div align = "center">
+  <h3> Back End: </h3>
   <img align = "center" width="80px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"> -
   <img align = "center" width="50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> -
   <img align = "center" src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -23,13 +25,15 @@
 
 <br>
 
-<div>
+<div align = "center">
+  <h3> Banco de dados: </h3>
   <img align = "center" width="80px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> -
   <img align = "center" width="65px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
 </div>
 <br>
 
-<div>
+<div align = "center">
+  <h3> Ferramentas: </h3>
   <img align = "center" width="60px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
 
