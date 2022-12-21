@@ -49,7 +49,7 @@
 <div align = "center">
   <h3> Sistemas Operacionais: </h3>
   <img align = "center" width="50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"> -
-  <img align = "center" width="50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align = "center" width="65px" src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
 <hr>
