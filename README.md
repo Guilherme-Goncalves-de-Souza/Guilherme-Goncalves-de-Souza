@@ -19,16 +19,6 @@
 </div>
 
 <br>
-
-<div align = "center">
-  <h3> Back End: </h3>
-  <img align = "center" width="80px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"> -
-  <img align = "center" width="50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> -
-  <img align = "center" src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-</div>
-
-<br>
-
 <div align = "center">
   <h3> Banco de dados: </h3>
   <img align = "center" width="80px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> -
