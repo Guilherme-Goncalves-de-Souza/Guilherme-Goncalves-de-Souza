@@ -1,11 +1,7 @@
 ## Olá, Bem vindo ao meu github :) <img height="20em" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGuilherme-Goncalves-de-Souza1212%2Fhit-counter"/> 
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Goncalves-de-Souza&show_icons=true&theme=chartreuse-dark&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Goncalves-de-Souza&layout=compact&langs_count=7&theme=chartreuse-dark"/>
    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme-Goncalves-de-Souza&theme=vue"/>
-  
-  
 </div>
 
 <hr>
