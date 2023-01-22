@@ -16,6 +16,14 @@
 </div>
 
 <br>
+
+<div align = "center">
+  <h3> Estudando: </h3>
+  <img align = "center" width="50px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+</div>
+<br>
+
+
 <div align = "center">
   <h3> Banco de dados: </h3>
   <img align = "center" width="80px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> -
