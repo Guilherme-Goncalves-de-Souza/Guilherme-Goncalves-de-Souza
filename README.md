@@ -1,4 +1,4 @@
-## Olá, Bem vindo ao meu github :) <img height="20em" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGuilherme-Goncalves-de-Souza1212%2Fhit-counter"/> 
+## Olá, Bem vindo ao meu github :)
 
 <div align="center">
    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guilherme-Goncalves-de-Souza&theme=vue"/>
