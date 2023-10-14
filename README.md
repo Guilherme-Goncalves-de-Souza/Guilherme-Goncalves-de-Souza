@@ -47,10 +47,7 @@
 <div align = "center">
   <a href = "mailto:gui11223344555@gmail.com" target="_blank"> <img align = "center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a/>
 </div>
-
-![Snake animation](https://github.com/Guilherme-Goncalves-de-Souza/Guilherme-Goncalves-de-Souza/blob/output/github-contribution-grid-snake.svg)
   
-
 <!-- Créditos: -https://github.com/alexandresanlim/Badges4-README.md-Profile#-office- 
                -https://github.com/rafaballerini/rafaballerini
                -https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md#cart%C3%A3o-de-estat%C3%ADsticas-do-github
